@@ -14,3 +14,5 @@
 [ ! -d @keq/cli ] && git clone git@github.com:keq-request/keq-cli.git @keq/cli
 [ ! -d @keq/proxy ] && git clone git@github.com:keq-request/keq-proxy.git @keq/proxy
 [ ! -d @keq/headers ] && git clone git@github.com:keq-request/keq-headers.git @keq/headers
+
+[ ! -d @website/blog ] && git clone git@github.com:Val-istar-Guo/blog.website.git @website/blog
