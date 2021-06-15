@@ -6,6 +6,7 @@
 [ ! -d @mtpl/component ] && git clone git@github.com:mili-project-manager/mtpl-component.git @mtpl/component
 [ ! -d @mtpl/nestjs ] && git clone git@github.com:mili-project-manager/mtpl-nestjs.git @mtpl/nestjs
 [ ! -d @mtpl/code-style ] && git clone git@github.com:mili-project-manager/mtpl-code-style.git @mtpl/code-style
+[ ! -d @mtpl/nuxtjs ] && git clone git@github.com:mili-project-manager/mtpl-nuxtjs.git @mtpl/nuxtjs
 
 
 [ ! -d @keq/deserialize ] && git clone git@github.com:keq-request/keq-deserialize.git @keq/deserialize
