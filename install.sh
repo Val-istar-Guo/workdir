@@ -17,3 +17,5 @@
 [ ! -d @keq/headers ] && git clone git@github.com:keq-request/keq-headers.git @keq/headers
 
 [ ! -d @website/blog ] && git clone git@github.com:Val-istar-Guo/blog.website.git @website/blog
+
+[ ! -d @util/rehype-prism ] && git clone git@github.com:Val-istar-Guo/rehype-prism.git @util/rehype-prism
