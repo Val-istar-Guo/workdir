@@ -19,3 +19,6 @@
 [ ! -d @website/blog ] && git clone git@github.com:Val-istar-Guo/blog.website.git @website/blog
 
 [ ! -d @util/rehype-prism ] && git clone git@github.com:Val-istar-Guo/rehype-prism.git @util/rehype-prism
+
+[ ! -d @openwrt/init-shell ] && git clone git@github.com:Val-istar-Guo/openwrt-init-shell.git @openwrt/init-shell
+[ ! -d @openwrt/packages ] && git clone git@github.com:Val-istar-Guo/openwrt-packages-arm_cortex-a9_vfpv3-d16.git @openwrt/packages
