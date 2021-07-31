@@ -1,4 +1,3 @@
-[ ! -d @mili/mili ] && git clone git@github.com:mili-project-manager/mili.git @mili/mili
 [ ! -d @mtpl/template ] && git clone git@github.com:mili-project-manager/mtpl-template.git @mtpl/template
 [ ! -d @mtpl/github ] && git clone git@github.com:mili-project-manager/mtpl-github.git @mtpl/github
 [ ! -d @mtpl/conventional-commits ] && git clone git@github.com:mili-project-manager/mtpl-conventional-commits.git @mtpl/conventional-commits
@@ -19,6 +18,9 @@
 [ ! -d @website/blog ] && git clone git@github.com:Val-istar-Guo/blog.website.git @website/blog
 
 [ ! -d @util/rehype-prism ] && git clone git@github.com:Val-istar-Guo/rehype-prism.git @util/rehype-prism
+[ ! -d @util/mili ] && git clone git@github.com:mili-project-manager/mili.git @util/mili
 
 [ ! -d @openwrt/init-shell ] && git clone git@github.com:Val-istar-Guo/openwrt-init-shell.git @openwrt/init-shell
 [ ! -d @openwrt/packages ] && git clone git@github.com:Val-istar-Guo/openwrt-packages-arm_cortex-a9_vfpv3-d16.git @openwrt/packages
+
+[ ! -d @chore/article ] && git clone git@github.com:Val-istar-Guo/article.git @chore/article
